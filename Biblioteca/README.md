@@ -1,6 +1,6 @@
 # Administracion_Biblioteca ✨
 
-**Sistema_Gestion**: Una o dos líneas explicando de qué trata tu proyecto.
+**Sistema_Gestion**
 
 ---
 
@@ -13,4 +13,10 @@ Biblioteca/
 │   └── controller.js  # 🎮 Controladores (Manejo de peticiones)
 │   └── view.js        # 🖼️ Vistas 
 │   └── model.js       # 📦 Modelos (Datos/Lógica de negocio)
-         
+│── css/     
+
+
+## 👨‍🎓 Integrantes:
+
+**Sebastian Henao Estrada**
+**Jhon Stiven Cortes Rivera**
